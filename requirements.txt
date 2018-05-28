@@ -1,0 +1,4 @@
+adafruit-ampy==1.0.3
+click==6.7
+docopt==0.6.2
+pyserial==3.4
